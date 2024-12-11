@@ -1,0 +1,18 @@
+2024-11-07 01:00:31.516 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-11-07 01:00:31.666 [info] Started local extension host with pid 20637.
+2024-11-07 01:00:32.858 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-11-07 01:00:33.093 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at hcs.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:8655)
+    at hcs.rerender (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:7116)
+    at c7e.rerender (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:416:15983)
+    at dy.ad (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1334:54200)
+    at dy.Zc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1334:54064)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1334:53399
+    at Set.forEach (<anonymous>)
+    at dy.Xc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1334:53383)
+    at vZ.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1334:37318)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:747)
+2024-11-07 01:00:33.745 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2024-11-07 01:00:34.230 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-11-07 01:00:36.583 [info] [perf] Render performance baseline is 39ms
+2024-11-07 01:07:58.129 [error] [network] #11: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

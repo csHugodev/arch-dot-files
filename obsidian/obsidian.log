@@ -1,0 +1,47 @@
+2024-11-07 05:56:28 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-11-07 05:56:29 Checking for update using Github
+2024-11-07 05:56:32 Success.
+2024-11-07 05:56:32 Latest version is 1.7.5
+2024-11-07 05:56:32 App is up to date.
+2024-11-25 22:20:52 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-11-25 22:21:00 Checking for update using Github
+2024-11-25 22:21:04 Success.
+2024-11-25 22:21:04 Latest version is 1.7.7
+2024-11-25 22:21:04 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/obsidian-1.7.7.asar.gz
+2024-11-25 22:21:37 Verifying hash & signature. Size= 8000009
+2024-11-25 22:21:37 Saving file
+2024-11-25 22:21:38 Update complete.
+2024-11-25 23:20:52 Checking for update using Github
+2024-11-25 23:20:52 Success.
+2024-11-25 23:20:52 Latest version is 1.7.7
+2024-11-25 23:20:52 An update is already downloaded.
+2024-11-26 00:20:52 Checking for update using Github
+2024-11-26 00:20:52 Success.
+2024-11-26 00:20:52 Latest version is 1.7.7
+2024-11-26 00:20:52 An update is already downloaded.
+2024-11-26 01:20:52 Checking for update using Github
+2024-11-26 01:20:52 Success.
+2024-11-26 01:20:52 Latest version is 1.7.7
+2024-11-26 01:20:52 An update is already downloaded.
+2024-11-26 02:20:52 Checking for update using Github
+2024-11-26 02:20:52 Success.
+2024-11-26 02:20:52 Latest version is 1.7.7
+2024-11-26 02:20:52 An update is already downloaded.
+2024-11-26 02:38:50 Loading updated app package /home/cshugo/.config/obsidian/obsidian-1.7.7.asar
+2024-11-26 02:38:50 Checking for update using Github
+2024-11-26 02:40:25 Loading updated app package /home/cshugo/.config/obsidian/obsidian-1.7.7.asar
+2024-11-26 02:40:25 Checking for update using Github
+2024-11-26 03:20:52 Checking for update using Github
+2024-11-26 03:20:52 Success.
+2024-11-26 03:20:52 Latest version is 1.7.7
+2024-11-26 03:20:52 An update is already downloaded.
+2024-11-26 03:21:42 Loading updated app package /home/cshugo/.config/obsidian/obsidian-1.7.7.asar
+2024-11-26 03:21:42 Checking for update using Github
+2024-11-26 03:26:30 Loading updated app package /home/cshugo/.config/obsidian/obsidian-1.7.7.asar
+2024-11-26 03:26:30 Checking for update using Github
+2024-11-26 03:27:18 Loading updated app package /home/cshugo/.config/obsidian/obsidian-1.7.7.asar
+2024-11-26 03:27:19 Checking for update using Github
+2024-11-26 04:20:52 Checking for update using Github
+2024-11-26 04:20:52 Success.
+2024-11-26 04:20:52 Latest version is 1.7.7
+2024-11-26 04:20:52 An update is already downloaded.

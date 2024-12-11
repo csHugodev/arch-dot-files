@@ -1,0 +1,6 @@
+2024-11-07 01:08:01.070 [info] Getting Manifest... jdinhlife.gruvbox
+2024-11-07 01:08:01.208 [info] Installing extension: jdinhlife.gruvbox {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/cshugo/.vscode/extensions/extensions.json","path":"/home/cshugo/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.95.1","date":"2024-10-31T05:14:54.222Z"}}
+2024-11-07 01:08:02.086 [info] Extension signature verification result for jdinhlife.gruvbox: UnknownError. Executed: true. Duration: 23ms.
+2024-11-07 01:08:02.169 [info] Extracted extension to file:///home/cshugo/.vscode/extensions/jdinhlife.gruvbox-1.19.1: jdinhlife.gruvbox
+2024-11-07 01:08:02.229 [info] Renamed to /home/cshugo/.vscode/extensions/jdinhlife.gruvbox-1.19.1
+2024-11-07 01:08:02.294 [info] Extension installed successfully: jdinhlife.gruvbox vscode-userdata:/home/cshugo/.vscode/extensions/extensions.json
